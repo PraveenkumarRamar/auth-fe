@@ -1,0 +1,1 @@
+export const API = "https://auth-be-express-triall.onrender.com"
